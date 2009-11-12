@@ -1,0 +1,10 @@
+LIBRARY      "CryptLib"
+
+EXPORTS
+   GenerateRSAKey						@2
+   ImportRSAKey							@3
+   ExportRSAKey							@4
+   EncodeMythicRSAPacket		@5
+   DecodeMythicRSAPacket		@6
+   EncodeMythicRC4Packet		@7
+   DecodeMythicRC4Packet		@8
